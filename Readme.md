@@ -5,7 +5,7 @@
   <table>
     <tr><td>Instituto Federal de Educação, Ciência e Tecnologia do Maranhão</td></tr>
     <tr><td>Curso: Ciência da Computação</td></tr>
-    <tr><td>Turma: BCC-VI</td></tr>
+    <tr><td>Turma: BCC-VII</td></tr>
     <tr><td>Disciplina: Redes de Computadores I</td></tr>
     <tr><td>Professor: <a href="https://github.com/agenteph">Paulo Henrique S. Barbosa</a></td></tr>
     <tr><td>Aluno: Thiago Figueredo da Costa Antunes</td></tr>
